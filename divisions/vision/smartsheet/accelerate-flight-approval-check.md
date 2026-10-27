@@ -5,6 +5,7 @@
 - System: Smartsheet event folder (see the [event backend shape](../../../.agents/skills/lumenis-accelerate-campaign/references/smartsheet.md#shape)) and the internal sales org chart sheet, a Smartsheet copy of the monthly sales org chart. Traveler names, practices, contact details, sheet links, IDs and cost center codes remain in the internal work system.
 - Subject owner: Kaelyn Gray; maintainer: @the-digital-nicholas-olsen.
 - Status: draft for review.
+- Not affected by the Aesthetics RSM approval gate (added 2026-10-27). That column and RSM email exist on the AES sheet only; Vision keeps using the rep-entered `RSM Approval` column below.
 - Source and review: Kaelyn Gray's working procedure, set 2026-10-07 and narrowed to Vision only on 2026-10-23. Sheet names, column names and Division values were observed read-only in two Q4 2026 event folders on 2026-10-23.
 
 ## Use this when

@@ -20,14 +20,14 @@ One event folder (`Qn City Accelerate`) in the approved workspace, with four she
 3. Verify all four destination sheets and newly assigned IDs before modifying. The folder resorts after rename; refresh the list rather than reuse row positions.
 4. If old rows copied, remove them only from the verified new copy under the authorized cleanup scope. Confirm total rows and all IDs with pagination; column-filtered summaries can omit blank rows. Preserve intentional spacer/template rows and never clear the source.
 5. On both approval sheets update Event Interested in Attending to the new event. Fetch fresh column IDs; copied IDs differ.
-   Confirm the RSM Name picklist lists the current RSMs for that division (check the org chart, not the old sheet). Confirm the RSM approval column exists on each approval sheet that uses the gate below.
+   Confirm the RSM Name picklist lists the current RSMs for that division (check the org chart, not the old sheet). On the AES sheet only, confirm the RSM approval column exists (see the gate below).
 6. For all six forms update title, description and confirmation message. Save and reopen; the sidebar sometimes rendered the previous form's content. Check division branding and actual form ID before editing. Do not activate a form until its destination and permissions are ready.
-7. Set up the [RSM approval gate](#rsm-approval-gate) on each approval sheet that uses it. Then inspect travel and internal notifications: triggers, conditions, recipients, subject, full body and permission constraints. Source travel alert used Send to Travel Agent checked; source internal alert used new rows. Confirm current business recipients, not names copied from old docs.
+7. On the AES Rep Approval sheet only, set up the [RSM approval gate](#rsm-approval-gate). Then inspect travel and internal notifications: triggers, conditions, recipients, subject, full body and permission constraints. Source travel alert used Send to Travel Agent checked; source internal alert used new rows. Confirm current business recipients, not names copied from old docs.
 8. Collect six Share Form links and four sheet links, then produce the Master Links and internal document set. Verify destination, division and access from the intended user's account.
 
 ## RSM approval gate
 
-Applies to the AES Rep Approval sheet from Q4 2026 (requested by the Aesthetics sales lead on 2026-10-27). VIS uses it only if the Vision lead asks; until then VIS keeps the single rep-entered column.
+**Aesthetics only.** Applies to the AES Rep Approval sheet from Q4 2026 (requested by the Aesthetics sales lead on 2026-10-27). Do not add it to the VIS Rep Approval sheet: Vision keeps the single rep-entered `RSM Approval` column and its own [flight approval check](../../../../divisions/vision/smartsheet/accelerate-flight-approval-check.md).
 
 **Why.** `RSM Approval` is filled in by the rep on the form. It is the rep saying the RSM agreed, not the RSM agreeing. Flights cost real money, so the RSM confirms each submission on the sheet before marketing sends a traveler to Direct Travel.
 
@@ -43,7 +43,7 @@ Applies to the AES Rep Approval sheet from Q4 2026 (requested by the Aesthetics 
 
 **Access.** Every RSM in the picklist needs Editor access to the sheet, or they cannot mark the column. Viewer is not enough. A rep naming an RSM who is not in the picklist or not shared gets no email; list those rows for marketing.
 
-**Marketing check.** Before ticking Send to DT on a flight registration, confirm the traveler's approval row has `RSM Approved (RSM to complete)` = `Yes`. If it is blank or `No`, do not send; contact the rep and RSM. A rep-entered `RSM Approval` = `Yes` alone is not enough.
+**Marketing check.** Before ticking Send to DT on an Aesthetics flight registration, confirm the traveler's approval row has `RSM Approved (RSM to complete)` = `Yes`. If it is blank or `No`, do not send; contact the rep and RSM. A rep-entered `RSM Approval` = `Yes` alone is not enough.
 
 **Rollout.** Tell the division lead when the gate is live on a new event so they can review blanks with their RSMs on their weekly call.
 
