@@ -13,6 +13,7 @@ Read [setup](guides/setup.md) and [contributing](CONTRIBUTING.md). AI clients fo
 | Prepare sales emails and rep invitation Word files | [Seven communication examples](templates/accelerate-internal-comms/README.md) |
 | Check copy before delivery | [Ted's copy clarity gate](.agents/skills/copy-clarity-gate/SKILL.md) |
 | Plan webinar content | [Webinar skill](.agents/skills/lumenis-webinar-production/SKILL.md) |
+| Pick event photos from Dropbox and add them to the catalog | [Event photo selection](.agents/skills/lumenis-event-photo-selection/SKILL.md) |
 | Add, resize and upload library images | [Image library](assets/image-library/README.md) |
 | Find hosted image candidates | [Image search](.agents/skills/lumenis-image-search/SKILL.md) |
 | Find or add content in OneDrive and Mimeo | [Content hub](.agents/skills/lumenis-content-hub/SKILL.md) |

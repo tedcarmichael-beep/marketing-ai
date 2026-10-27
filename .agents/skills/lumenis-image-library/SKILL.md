@@ -13,3 +13,5 @@ Generate metadata, fill it, process the image and validate locally before any up
 Uploading writes to production HubSpot. Follow the user's existing authorization and confirm the account and folder before writing; local intake alone does not authorize upload. Sync reads HubSpot and changes local catalog URLs. Review the diff, especially any removed URLs, before committing. Do not move existing HubSpot files as part of consolidation.
 
 Read [provenance and differences](../../../assets/image-library/PROVENANCE.md) when comparing with Simon's repository. This copy does not automatically synchronize with upstream. Submit metadata and instruction changes through the main repository's pull-request process, and record live upload results externally.
+
+For choosing photos from an event shoot in Dropbox before intake, use [event photo selection](../lumenis-event-photo-selection/SKILL.md).
