@@ -41,7 +41,7 @@ One event folder (`Qn City Accelerate`) in the approved workspace, with four she
 - Body: a rep submitted the form below; mark Yes or No in the RSM column; marketing will not send anyone to Direct Travel until it says Yes; link to the sheet. Include all row fields (the default) so the RSM sees the submission.
 - After creating it, read it back and confirm every branch names the right RSM, city and sheet link.
 
-**Access.** Every RSM in the picklist needs Editor access to the sheet, or they cannot mark the column. Viewer is not enough. A rep naming an RSM who is not in the picklist or not shared gets no email; list those rows for marketing.
+**Access.** Every RSM in the picklist needs Editor access to the sheet, or they cannot mark the column. Viewer is not enough. Share the sheet with an RSM **before** adding them to the workflow: Smartsheet turns the whole workflow off ("disabled by system") if any recipient lacks access, and it stays off until someone turns it back on. After any change, confirm the workflow still shows as on. A rep naming an RSM who is not in the picklist or not shared gets no email; list those rows for marketing.
 
 **Marketing check.** Before ticking Send to DT on an Aesthetics flight registration, confirm the traveler's approval row has `RSM Approved (RSM to complete)` = `Yes`. If it is blank or `No`, do not send; contact the rep and RSM. A rep-entered `RSM Approval` = `Yes` alone is not enough.
 
