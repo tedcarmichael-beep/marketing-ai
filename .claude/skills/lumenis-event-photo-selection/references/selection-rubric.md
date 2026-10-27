@@ -8,7 +8,7 @@ Status: draft, 2026-10-27. Calibrated on 57 photos marketing had already chosen 
 
 ## Target
 
-- **About 3–5% of a shoot**: 10–15 picks from 250–350 photos. Leaving good photos out is normal.
+- **About 3–6% of each sub-shoot** (booth, dinner, general session): roughly 10–20 picks per event. The two events used to correct this rubric ended at 19 and 17 picks from 593 photos. Leaving good photos out is normal.
 - **About 70–75% people.** Every event still gets about 4–5 strong photos without people (device hero, brand signage, styled detail, the set or venue). Never zero.
 - Cover several categories. Don't take 10 shots of one thing.
 
@@ -65,5 +65,5 @@ Status: draft, 2026-10-27. Calibrated on 57 photos marketing had already chosen 
 
 ## Open questions
 
-- Should attendee-only candids enter the shared HubSpot catalog, or only staff, speakers and KOLs? Until this is decided, record identifiable attendees in `usageRestrictions`.
-- Is the same rubric right for every event type? It was calibrated on Accelerate events and corrected on one trade show.
+- Should photos whose main subjects are identifiable attendees enter the shared HubSpot catalog, or only staff, speakers and KOLs? Until the subject owner decides, these may go to Selected Images but are marked **catalog pending decision** and are not uploaded or cataloged.
+- Is the same rubric right for every event type and for Aesthetics? It was calibrated on Vision Accelerate events and corrected on one trade show.

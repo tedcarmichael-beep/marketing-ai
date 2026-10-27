@@ -26,7 +26,7 @@ Raw images, metadata staging, processed files, dependencies and browser output a
 
 ## Add and describe an image
 
-To choose photos from an event shoot in Dropbox first, use the [event photo selection skill](../../.agents/skills/lumenis-event-photo-selection/SKILL.md); it ends by running the steps below.
+To choose photos from an event shoot in Dropbox first, use the [event photo selection skill](../../.agents/skills/lumenis-event-photo-selection/SKILL.md); then continue with the steps below.
 
 1. Select the source locally or from the approved original-media library and place a working copy in `1-raw/`. Actually inspect the image before describing it.
 2. Read `scripts/helpers/schema.mjs` for exact brands, business units, collections, placements and orientations. Do not assume a product or reuse permission from a filename. Choose a unique lowercase hyphen-separated ID ending in three digits, such as `optilift-device-front-001`.
