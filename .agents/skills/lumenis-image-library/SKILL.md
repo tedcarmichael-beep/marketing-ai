@@ -14,4 +14,4 @@ Uploading writes to production HubSpot. Follow the user's existing authorization
 
 Read [provenance and differences](../../../assets/image-library/PROVENANCE.md) when comparing with Simon's repository. This copy does not automatically synchronize with upstream. Submit metadata and instruction changes through the main repository's pull-request process, and record live upload results externally.
 
-For choosing photos from an event shoot in Dropbox before intake, use [event photo selection](../lumenis-event-photo-selection/SKILL.md).
+For selecting reusable photos from one or more source folders before intake, use [photo selection](../lumenis-photo-selection/SKILL.md). No future campaign or use is required.
