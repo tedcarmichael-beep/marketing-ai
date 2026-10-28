@@ -51,8 +51,8 @@
       ],
       "note": "These lists can grow over time. Treat a value you don't recognize as valid-but-unclassified, not an error."
     },
-    "lastSyncedAt": "2026-09-09T19:11:12.778Z",
-    "updatedAt": "2026-09-09T19:11:12.785Z"
+    "lastSyncedAt": "2026-10-28T15:20:00.763Z",
+    "updatedAt": "2026-10-28T15:20:00.764Z"
   },
   "schemaVersion": 1,
   "assets": [
@@ -5209,6 +5209,153 @@
         }
       ],
       "importedAt": "2026-07-28T21:18:23.773Z",
+      "hubspot": {
+        "folderId": "218370797141",
+        "folderName": "US - VIS - Image Catalogue - 2026"
+      }
+    },
+    {
+      "id": "optilight-device-full-render-001",
+      "allowedBrands": [
+        "OptiLIGHT"
+      ],
+      "businessUnit": "Vision",
+      "subject": "OptiLIGHT device, full-length render",
+      "description": "Three-quarter front view of the full OptiLIGHT console on its wheeled base, with the touchscreen, two connected handpieces and a holstered handpiece on the side.",
+      "productShown": "OptiLIGHT (OPT) system: console, touchscreen, handpieces and wheeled stand",
+      "audience": [
+        "practice staff",
+        "eye care professionals"
+      ],
+      "placements": [
+        "product-detail",
+        "technology",
+        "card",
+        "section"
+      ],
+      "orientation": "portrait",
+      "background": "Transparent cutout with a soft grey floor shadow under the base",
+      "tags": [
+        "OptiLIGHT",
+        "OPT",
+        "IPL",
+        "device render",
+        "product cutout",
+        "full length",
+        "transparent background",
+        "dry eye device"
+      ],
+      "altText": "The OptiLIGHT device by Lumenis, a white console with a touchscreen and two handpieces on a wheeled stand.",
+      "usageRestrictions": "Product render supplied by Ted Carmichael (Lumenis marketing) on 2026-10-28; original source and render license not recorded, so confirm usage rights before external publication. No people or patient data; the on-screen interface is generic. Transparent background with a soft floor shadow baked in; remove the shadow if the layout needs a clean cutout. Do not pair with clinical or outcome claims without regulatory review.",
+      "source": {
+        "filename": "optilight-device-full-render.webp",
+        "format": "webp",
+        "width": 1714,
+        "height": 2000,
+        "bytes": 463514,
+        "intake": "local-staging"
+      },
+      "collection": "optilight",
+      "derivatives": [
+        {
+          "width": 640,
+          "height": 747,
+          "bytes": 55624,
+          "format": "webp",
+          "path": "3-processed/optilight/optilight-device-full-render-001/optilight-device-full-render-001-640w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optilight-device-full-render-001/optilight-device-full-render-001-640w.webp"
+        },
+        {
+          "width": 1280,
+          "height": 1494,
+          "bytes": 196254,
+          "format": "webp",
+          "path": "3-processed/optilight/optilight-device-full-render-001/optilight-device-full-render-001-1280w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optilight-device-full-render-001/optilight-device-full-render-001-1280w.webp"
+        },
+        {
+          "width": 1714,
+          "height": 2000,
+          "bytes": 358664,
+          "format": "webp",
+          "path": "3-processed/optilight/optilight-device-full-render-001/optilight-device-full-render-001-1714w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optilight-device-full-render-001/optilight-device-full-render-001-1714w.webp"
+        }
+      ],
+      "importedAt": "2026-10-28T15:19:04.116Z",
+      "hubspot": {
+        "folderId": "218370797141",
+        "folderName": "US - VIS - Image Catalogue - 2026"
+      }
+    },
+    {
+      "id": "optiplus-device-full-render-001",
+      "allowedBrands": [
+        "unclassified"
+      ],
+      "businessUnit": "Vision",
+      "subject": "OptiPLUS device, full-length render",
+      "description": "Three-quarter front view of the full OptiPLUS console with its angled black touchscreen, handpiece holders and cabled handpiece, standing on a two-wheeled cart.",
+      "productShown": "OptiPLUS dual-frequency RF system: console, touchscreen, handpieces and cart",
+      "audience": [
+        "practice staff",
+        "eye care professionals"
+      ],
+      "placements": [
+        "product-detail",
+        "technology",
+        "card",
+        "section"
+      ],
+      "orientation": "landscape",
+      "background": "Transparent cutout with a soft grey floor shadow under the cart",
+      "tags": [
+        "OptiPLUS",
+        "RF",
+        "device render",
+        "product cutout",
+        "full length",
+        "transparent background",
+        "OptiLIGHT companion"
+      ],
+      "altText": "The OptiPLUS device by Lumenis, a white console with an angled black touchscreen on a wheeled cart.",
+      "usageRestrictions": "Product render supplied by Ted Carmichael (Lumenis marketing) on 2026-10-28; original source and render license not recorded, so confirm usage rights before external publication. No people or patient data; the on-screen interface is generic. Transparent background with a soft floor shadow baked in; remove the shadow if the layout needs a clean cutout. Do not pair with clinical or outcome claims without regulatory review.",
+      "source": {
+        "filename": "optiplus-device-full-render.webp",
+        "format": "webp",
+        "width": 2000,
+        "height": 1414,
+        "bytes": 208078,
+        "intake": "local-staging"
+      },
+      "collection": "optilight",
+      "derivatives": [
+        {
+          "width": 640,
+          "height": 452,
+          "bytes": 26360,
+          "format": "webp",
+          "path": "3-processed/optilight/optiplus-device-full-render-001/optiplus-device-full-render-001-640w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optiplus-device-full-render-001/optiplus-device-full-render-001-640w.webp"
+        },
+        {
+          "width": 1280,
+          "height": 905,
+          "bytes": 74052,
+          "format": "webp",
+          "path": "3-processed/optilight/optiplus-device-full-render-001/optiplus-device-full-render-001-1280w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optiplus-device-full-render-001/optiplus-device-full-render-001-1280w.webp"
+        },
+        {
+          "width": 1920,
+          "height": 1357,
+          "bytes": 132362,
+          "format": "webp",
+          "path": "3-processed/optilight/optiplus-device-full-render-001/optiplus-device-full-render-001-1920w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optiplus-device-full-render-001/optiplus-device-full-render-001-1920w.webp"
+        }
+      ],
+      "importedAt": "2026-10-28T15:19:05.731Z",
       "hubspot": {
         "folderId": "218370797141",
         "folderName": "US - VIS - Image Catalogue - 2026"
