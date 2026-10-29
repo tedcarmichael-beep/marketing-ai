@@ -21,6 +21,8 @@ Search both systems before creating anything. Older names using USA, LMV/LMAES o
 
 ## Dependency order and outputs
 
+For due dates relative to the show (T-120 start, launch day at T-56, Em1 at T-35), see the [timeline](timeline.md).
+
 1. Confirm inputs, permissions, current objects and official names. Save existing IDs before editing.
 2. Select approved product/design sources; prepare venue collages before designs that reuse them.
 3. Create/reuse HubSpot and Salesforce campaigns with the right division and record type. No invented dates/budget/status values.

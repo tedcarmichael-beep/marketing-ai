@@ -35,9 +35,11 @@ These are the same conditions the Vision webinar workflow uses for enrollment an
 
 Other programs: form-fill segments follow the [reference](../lumenis-accelerate-campaign/references/campaigns-and-segments.md#active-form-fill-segments).
 
+**Accelerate attendance segments are static lists imported from Smartsheet and OneTap,** not form fills: `<campaign name> - Registered` for Em2 (built the Monday before the show) and `<campaign name> - Attended` for Em3 (the Monday after). [lumenis-accelerate-attendee-lists](../lumenis-accelerate-attendee-lists/SKILL.md) builds the files; create the empty segments here so the email shells can reference them.
+
 ## 3. Email shells
 
-1. Clone the program's placeholder promo emails (for webinars, Em1 and Em2) named in the template.
+1. Clone the program's placeholder emails named in the template: for webinars Em1 and Em2; for an Accelerate Em1 promo, Em2 Know Before You Go, Em3 Thank You for Attending and Em4 form-fill thank-you, all in lorem ipsum. Em2 and Em3 send to their Smartsheet-built segments, not the promo lists.
 2. In each: link the campaign; turn on *View in browser* and give the page a title from the webinar name so it gets a clean URL; Send to = the standing sales-leadership list **plus** the audience list chosen for this campaign (ask every time, never default); Don't send to = the Registered segment; *Don't send to unengaged contacts* on.
 3. Leave the creative as placeholder. The content owner replaces it using [lumenis-hubspot-email](../lumenis-hubspot-email/SKILL.md), and [lumenis-email-check](../lumenis-email-check/SKILL.md) runs before scheduling.
 

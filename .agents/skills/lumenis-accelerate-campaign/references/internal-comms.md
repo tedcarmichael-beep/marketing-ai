@@ -20,6 +20,8 @@ Seven documents per event:
 6. AES prospect invitation, flight needed.
 7. AES prospect invitation, non-flight.
 
+Each RSM email also carries a one-page flow chart of the two rep paths (prospect needs a flight / prospect is local), with the matching prospect email template behind each path. Render one per division from the current links.
+
 Name `city-division-audience-purpose.docx`, with one purpose/division per file. Keep the Master Links document internal. Prior source folders combined division variants and duplicated travel templates; do not reproduce those copies.
 
 ## Inputs and content

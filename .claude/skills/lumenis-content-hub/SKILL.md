@@ -64,9 +64,10 @@ When a finished campaign asset is approved (for example a webinar flyer at T-30,
 2. **One email to the partner channels:** the Modus owner (so reps find it in Modus) and the social team. Give the social team the **clean** link with no UTMs and ask them to add their own, so they can measure their channels ([lumenis-utm-links](../lumenis-utm-links/SKILL.md) explains why).
 3. **Sales email:** to the RSMs through the usual sales channel, with the sales tracking link and one line on who the asset is for.
 4. **Website:** for events, a request to add it to the Lumenis upcoming events page, with the date, title and registration link.
-5. **Update the campaign's Smartsheet rows** with the hub row and where each draft is.
+5. **Accelerate flyers and agendas:** also add them to the Vision Sales Hub page for that show, with the hotel booking link, so reps have everything in one place. Release to sales only when the sales VPs say (usually six to eight weeks out).
+6. **Update the campaign's Smartsheet rows** with the hub row and where each draft is.
 
-Check before sending: the asset passed its check (for a webinar flyer, [lumenis-webinar-asset-check](../lumenis-webinar-asset-check/SKILL.md)), and each link is the right one for its channel.
+Check before sending: the asset passed its check (for a webinar flyer, [lumenis-webinar-asset-check](../lumenis-webinar-asset-check/SKILL.md); for an Accelerate flyer, [lumenis-accelerate-asset-check](../lumenis-accelerate-asset-check/SKILL.md)), and each link is the right one for its channel.
 
 ## Do not
 

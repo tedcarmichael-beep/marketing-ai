@@ -48,6 +48,13 @@ Rep approval sheets list the practices reps invite to Accelerate. Each row shoul
 9. **Read back** the practice, link, Amount, Stage and Expected Value columns and confirm the formulas calculated. Report row counts by outcome, open pipeline, total expected value, link fixes and unresolved items.
 10. **Product rollup, on request.** Use open, non-duplicate rows. Normalize `Product of Interest`: Stellar M22 (Stellar, XPL, ResurFX, Q-switched), triLift (incl. 2.0 and bundles), FoLix, UltraPulse (Alpha, Encore, CO2), AcuPulse, Splendor X, NuEra Tight. Credit a row's full amount to every product it names, including "or" options, and say that product totals overlap. List Won and closed rows separately. Give product, opportunity count and total pipeline.
 
+## Before an Accelerate
+
+- **Daily from T-21.** Leadership asks for pipeline every day in the last three weeks, and VPs read the sheets directly. Rerun the procedure each morning (it only rewrites changed rows) and report totals per division.
+- **Totals at a glance.** If the sheet has a summary area (sheet summary fields or a totals row at the top), keep open pipeline and expected value there current, so anyone asking an AI connected to Smartsheet, or scrolling the sheet, gets the answer without adding it up. Don't add the area yourself without the owner's approval.
+- **Pipeline review notes** written by [lumenis-accelerate-pipeline-review](../lumenis-accelerate-pipeline-review/SKILL.md) need this sync run first, so each row has its opportunity.
+- **After the show:** the same rollup is the 1-week post-event analysis (P7): pipeline and stage movement since the last pre-show run, Won deals and new opportunities.
+
 ## Expected Value formula
 
 ```

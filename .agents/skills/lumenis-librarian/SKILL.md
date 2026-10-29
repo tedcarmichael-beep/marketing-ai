@@ -82,6 +82,7 @@ Called by [sprint plan setup](../lumenis-sprint-plan-setup/SKILL.md) when a camp
    | Campaign type | Subfolders |
    |---|---|
    | Webinar | `_Context`, `Interview`, `Flyer`, `Deck`, `Video`, `Invoices` |
+   | Accelerate | `_Context`, `Flyer`, `Agenda`, `Decks`, `Print`, `Attendee Records`, `Invoices` |
    | Other types | `_Context` only, until their playbook defines more |
 
 3. If the folder already exists, add only the missing subfolders. Never rename, move or empty anything.
