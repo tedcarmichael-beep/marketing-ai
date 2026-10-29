@@ -6,7 +6,7 @@ owner: Nicholas (marketing operations)
 ---
 # Campaign timeline
 
-T = Day 1 of the show, always the Friday. Calendar days; T-x is the due date. Step IDs match *TEMPLATE - Accelerate* in Smartsheet, which holds the full 73-step plan; [lumenis-accelerate-playbook](../../lumenis-accelerate-playbook/SKILL.md) runs it. This file covers the campaign-build steps this skill owns.
+T = Day 1 of the show, always the Friday. Calendar days; T-x is the due date. Step IDs match *TEMPLATE - Accelerate* in Smartsheet, which holds the full 74-step plan; [lumenis-accelerate-playbook](../../lumenis-accelerate-playbook/SKILL.md) runs it. This file covers the campaign-build steps this skill owns.
 
 | When | Step | What |
 |---|---|---|
@@ -17,11 +17,12 @@ T = Day 1 of the show, always the Friday. Calendar days; T-x is the due date. St
 | T-70 | D6 | Em1 audience decided: regional list or full blast |
 | T-64 | D9 | Tracking links (set page slugs first) |
 | T-63 | D7, C1 | Interest form with the right success message; flyer copy updated and checked |
-| T-60 | C2, C3, D8 | Agenda page duplicated with the standard agenda; promo landing page; workflow cloned and checked, left OFF |
-| T-57 | D10 | [Landing page check](../../lumenis-landing-page-check/SKILL.md) including a live form test |
-| **T-56** | **L0** | **Launch day:** pages live and workflow ON on one day; flyer ready for sales |
+| T-61 | C16 | Em4 form-fill thank-you final and checked (the workflow sends it from launch day) |
+| T-60 | C2, C3, D8 | Agenda page duplicated with the standard agenda; promo landing page; workflow cloned and checked with Em4, left OFF |
+| T-57 | D10 | Pre-launch [landing page check](../../lumenis-landing-page-check/SKILL.md): page rows, form on preview, workflow test tools |
+| **T-56** | **L0** | **Launch day:** pages live and workflow ON on one day, then the authorized live form test; nothing is distributed until it passes |
 | T-56 to T-42 | C5, C6 | Flyer in the HubSpot campaign and the Vision Sales Hub; to sales when the VPs say, plus Modus and social |
-| T-45 | C7 | Em1 creative; Em4 final (it must be final before Em1 sends) |
+| T-45 | C7 | Em1 creative |
 | T-35 | C8 | Em1 sends, five weeks out so people can book flights at a fair price |
 | T-4 (Mon AM) | D11, C14 | Registrants from Smartsheet into a HubSpot segment; Em2 Know Before You Go sends |
 | T+3 (Mon) | P1 | Attended list from OneTap into HubSpot and Salesforce |

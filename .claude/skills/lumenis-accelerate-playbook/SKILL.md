@@ -8,7 +8,7 @@ description: Run a Lumenis Accelerate event end to end from its Smartsheet campa
 Owner: Nicholas (marketing operations), with Kaelyn for event logistics, Ted for content and EJ for operations.
 Status: draft procedure, written 2026-10-29 from the Vision Accelerate planning session; not yet run on a live show. Show-day and post-event steps are placeholders until the team's next session. Review required.
 
-An Accelerate is about 73 steps from the annual plan to T+30, owned by five people. The steps, owners, timing and agent for each live in the campaign template in Smartsheet (*TEMPLATE - Accelerate*) and, once a show is booked, in its rows in the live sprint plan. This skill works from those rows. It decides what's due, runs it through the right agent and stops at the gates; it doesn't repeat what each agent does.
+An Accelerate is about 74 steps from the annual plan to T+30, owned by five people. The steps, owners, timing and agent for each live in the campaign template in Smartsheet (*TEMPLATE - Accelerate*) and, once a show is booked, in its rows in the live sprint plan. This skill works from those rows. It decides what's due, runs it through the right agent and stops at the gates; it doesn't repeat what each agent does.
 
 **T is always Day 1 of the show, the Friday** (staff arrive 1 PM, sales huddle 1:30-2 PM, KOLs at the hotel by 7 PM). Monday before the show = T-4; Monday after = T+3; Tuesday after = T+4.
 
@@ -47,8 +47,9 @@ Steps without an agent of their own use the reference here:
 | Venue locked (A4) | Sprint plan setup and every other workstream | Venue, address and hotel are in Key Info |
 | KOL said yes (K3) | KOL purchase request (K5), Ted's follow-up (K4) | Written yes from the KOL |
 | Hotel booking link (E3) | KOL follow-up, internal comms, Sales Hub page, BoomPop page | Link in Key Info and click-tested |
-| Page check passes (D10) | Launch day (L0) | [Landing page check](../lumenis-landing-page-check/SKILL.md) report shows every item passing |
-| Launch day (L0) | Flyer to sales, Modus and social (C6) | Page live and workflow ON, both read back |
+| Em4 final (C16) | Workflow check (D8) and launch day (L0) | Em4 approved and passes the email check; the workflow sends it |
+| Pre-launch page check passes (D10) | Launch day (L0) | [Landing page check](../lumenis-landing-page-check/SKILL.md) report shows every pre-launch row passing |
+| Launch day (L0) | Flyer to sales, Modus and social (C6) | Page live and workflow ON, both read back, and the live test passed |
 | Email check passes (C8, C13) | Scheduling Em1 and sending Em2 | [Email check](../lumenis-email-check/SKILL.md) shows every applicable check passing |
 | Agenda links fixed (C2) | Print order (E9) | Every QR code on the agenda graphics opens this show's agenda page |
 | Session line-up set (C9) | Deck prep (C10), run of show (E15), print order (E9) | Sessions and rooms are in the event's Smartsheet schedule |

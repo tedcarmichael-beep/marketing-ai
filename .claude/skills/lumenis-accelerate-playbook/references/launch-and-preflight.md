@@ -9,13 +9,14 @@ owner: EJ (launch day), Nicholas (pre-flight)
 
 Everything public goes live on **one day**, eight weeks out, so sales gets the flyer with working links and nothing points at a draft.
 
-Before launch, confirm Complete: promo landing page with its Learn More form (C3, D7), agenda page (C2), Em4 form-fill thank-you (C7), workflow cloned and checked (D8), page check passed (D10), flyer final (C4).
+Before launch, confirm Complete: promo landing page with its Learn More form (C3, D7), agenda page (C2), Em4 form-fill thank-you final (C16), workflow cloned and checked (D8), pre-launch page check passed (D10), flyer final (C4).
 
-On the day, a person:
+On the day, in this order:
 
-1. Publishes the promo landing page and agenda page.
-2. Turns the HubSpot interest workflow ON and reads back its ON state.
-3. Opens the live page in a private window and submits nothing (the test was D10).
+1. A person publishes the promo landing page and agenda page.
+2. A person turns the HubSpot interest workflow ON and reads back its ON state.
+3. With that person's go-ahead, run the **live test** from the [landing page check](../../lumenis-landing-page-check/SKILL.md#form-and-workflow-test): one submission on the published page with the test email and ZIP `00000`; success message, workflow, Salesforce status and Em4 all confirmed; test lead cleaned up.
+4. Only when the live test passes is launch Complete. If it fails, the workflow goes back OFF until it's fixed and retested.
 
 Then the flyer can go to sales whenever the VPs say, between six and eight weeks out (C6). Em1 is scheduled separately for T-35 (C8).
 

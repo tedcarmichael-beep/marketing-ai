@@ -29,9 +29,12 @@ The page counterpart of [lumenis-email-check](../lumenis-email-check/SKILL.md). 
 | P7 | Copy | [Ted's clarity gate](../copy-clarity-gate/SKILL.md) and [claims check](../lumenis-claims-check/SKILL.md) pass |
 | P8 | Settings | Page title, meta description and URL slug are final; page is linked to the HubSpot campaign only |
 
-## Form and workflow test
+The test has two parts, run at different times:
 
-Only after the workflow is cloned and checked, and only when the test is authorized.
+- **Pre-launch check** (before launch; D10 for an Accelerate): the page checks above, plus steps 1-2 below on the page preview, plus the workflow checked with HubSpot's own test tools while it is still OFF. The page may be published only when every pre-launch row passes.
+- **Live test** (launch day, L0 for an Accelerate): steps 1-6 on the published page, after a person has turned the workflow ON, and only when a person has authorized the test. Nothing is distributed (no flyer, email or social post) until the live test passes.
+
+## Form and workflow test
 
 1. Submit the form with the test email and ZIP `00000`.
 2. **Success message** appears and says the right thing for the page (for an Accelerate interest form: thanks, a Lumenis sales representative will reach out; never that they're registered).
@@ -40,8 +43,6 @@ Only after the workflow is cloned and checked, and only when the test is authori
 5. **Autoresponder:** arrives at the test inbox; passes [lumenis-email-check](../lumenis-email-check/SKILL.md).
 6. **Clean up:** remove the test contact from the campaign and delete or mark it as test in HubSpot and Salesforce, per marketing operations' rule.
 
-If the workflow is still OFF, test with its own test tools where available, and repeat step 1-5 on launch day after a person turns it on.
-
 ## Report
 
-Pass, fail with the fix, or blocked with what's missing, per row. Save it in the project folder and link it from the Smartsheet row. The page goes live only when every row passes.
+Pass, fail with the fix, or blocked with what's missing, per row, labelled pre-launch or live. Save it in the project folder and link it from the Smartsheet row. Pre-launch rows must all pass before the page is published; live rows must all pass before anything is distributed. If a live row fails, a person turns the workflow OFF or unpublishes the page until it's fixed.
