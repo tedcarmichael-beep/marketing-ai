@@ -53,6 +53,13 @@ Fictional examples showing each pattern:
 | Recurring vendor service | `Q126V - Example Agency marketing services - Jan` |
 | Split payment | `Q226V - Example Congress booth build deposit 60%` / `(remainder)` |
 
+## Accelerate requests
+
+Two kinds:
+
+- **Quarterly lump sum:** at the start of each quarter that has a Vision Accelerate, one PR for Vision's share of that quarter's event costs, as split by marketing leadership, Material `WORKSHOPS`. The amount comes from the approved budget, never from a past PR.
+- **Per KOL:** raised only after the KOL accepts, Material `LUMINARIES`, amount = honorarium + travel and expense allowance from the show record, header text as in the honorarium example above.
+
 ## Where to look things up first
 
 - **Event start dates:** the current year's Event Schedule sheet in the Vision Marketing Events Smartsheet workspace. If the event isn't there, check next year's sheet. For dates that matter, confirm against the society's public calendar.

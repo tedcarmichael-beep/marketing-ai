@@ -39,6 +39,20 @@ Webinar links:
 | ON24 console CTA to an Accelerate page | `on24` | `referral` | `cta` |
 | Social | **Clean link, no UTMs.** The social team adds its own so it can measure its own channels. Tell them so in the hand-off email. | | |
 
+Accelerate links (destination: the promo landing page, or the agenda page for print schedules):
+
+| Channel | utm_source | utm_medium | utm_content |
+|---|---|---|---|
+| Flyer, clickable link (PDF) | `flyer` | `referral` | `learn-more` |
+| Flyer, QR code (print) | `flyer` | `qr` | `qr` |
+| Agenda poster QR code | `poster` | `qr` | `agenda-<division>` |
+| Table tent QR code | `table-tent` | `qr` | `agenda-<division>` |
+| Sales email to RSMs | `sales` | `email` | `learn-more` |
+| Modus | `modus` | `referral` | `learn-more` |
+| Social | **Clean link, no UTMs**, as for webinars | | |
+
+Set the landing page and agenda page slugs before building links, so a later slug change doesn't break printed QR codes.
+
 **HubSpot marketing emails:** check whether the account adds tracking to email links automatically before adding UTMs by hand. Don't tag the same link twice.
 
 ## Procedure

@@ -9,11 +9,12 @@ Status: source-derived operational procedure, consolidated 2026-09-07; full seco
 
 Accelerate is a Lumenis education and hands-on event program. Vision and Aesthetics can share event logistics but have different audiences, products, forms and CRM routing. A HubSpot interest form is not a confirmed event registration: rep approval and flight/non-flight registration are a separate event process.
 
-Resolve division(s), market, city, event dates/timezone, products, audience, requested stage and external output folder. Start with the [campaign blueprint](references/blueprint.md) for a new campaign. For a continuation, read only the matching row below and the external handoff; do not reread every reference.
+Resolve division(s), market, city, event dates/timezone, products, audience, requested stage and external output folder. Start with the [campaign blueprint](references/blueprint.md) for a new campaign. For a show run from the Smartsheet template, [lumenis-accelerate-playbook](../lumenis-accelerate-playbook/SKILL.md) decides what's due; this skill builds the pieces. For a continuation, read only the matching row below and the external handoff; do not reread every reference.
 
 | Current step | Load |
 |---|---|
 | Names, inputs, deliverables, dependencies | [Blueprint](references/blueprint.md) |
+| When each piece is due (T-minus), launch day | [Timeline](references/timeline.md) |
 | CRM properties or native form configuration | [Accelerate forms](references/forms.md), then the [HubSpot form skill](../lumenis-hubspot-form/SKILL.md) |
 | Registration or agenda page implementation | [Accelerate pages](references/pages.md), then the [HubSpot landing page skill](../lumenis-hubspot-landing-page/SKILL.md) |
 | Salesforce campaign, HubSpot campaign or segment | [Campaigns and segments](references/campaigns-and-segments.md) |
@@ -25,6 +26,8 @@ Resolve division(s), market, city, event dates/timezone, products, audience, req
 | Account access, API reads, editor failures | [HubSpot access and verification](../../../integrations/hubspot/access-and-verification.md) |
 | Pipeline amount, stage and expected value on rep approval sheets | [Pipeline sync skill](../lumenis-accelerate-pipeline-sync/SKILL.md) |
 | Vision flight approvals once flight registrations come in (Vision only, draft) | [Flight approval check](../../../divisions/vision/smartsheet/accelerate-flight-approval-check.md) |
+| Landing page and form test before launch | [Landing page check](../lumenis-landing-page-check/SKILL.md) |
+| Badge, OneTap, KBYG and attended lists | [Attendee lists](../lumenis-accelerate-attendee-lists/SKILL.md) |
 | Readiness or launch | [Acceptance checklist](references/acceptance.md) |
 
 Use [known conflicts](../../../guides/known-conflicts.md) when a cited issue affects the step. Do not choose an arbitrary winner between conflicting source documents. For final copy, run [Ted's clarity gate](../copy-clarity-gate/SKILL.md). Clarity is not clinical or regulatory approval.

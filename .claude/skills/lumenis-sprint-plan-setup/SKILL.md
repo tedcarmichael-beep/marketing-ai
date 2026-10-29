@@ -13,7 +13,7 @@ Every campaign type has a template sheet in Smartsheet. Each row is one step, wr
 ## Inputs
 
 - **Campaign type** and its template sheet (for example *TEMPLATE - Webinar* in the team's Campaign Templates folder). Find it by name with Smartsheet search; if two match, ask which one.
-- **Event date** (T) and time zone. A webinar's T is the live date.
+- **Event date** (T) and time zone. A webinar's T is the live date. An Accelerate's T is always Day 1 of the show, the Friday.
 - **Project name**, following the naming convention (`node scripts/name.mjs`).
 - **Key facts** for Key Info cells, when known: KOL, host, division, budget.
 - **The live sprint plan sheet** (for Vision: *Sprint Plan (Live)*). Its columns must include every template column (Step, Timing, Days from Event, Agent (GitHub), AI Instructions, Depends On) plus Done, Status, Due Date and Project. If any are missing, stop and say which; copying would silently drop that data.
@@ -26,7 +26,7 @@ Requires the Smartsheet connector with edit access to both sheets. Without it, p
 2. **Read the template whole,** in order, keeping its hierarchy (Workstream rows with Task rows under them).
 3. **Compute each due date** from Days from Event: `due = T + days`, in calendar days. The date is when the step is **due**, not when to start it; the daily brief shows what's coming so bigger items (a flyer, a deck) start early.
    - **No weekend or holiday adjustment.** A date that lands on a Saturday, Sunday or holiday stays there. The team works variable schedules (weekend KOL calls, weeks off), so the owner decides; the daily brief shows a missed date as late the next working day. Team decision, 2026-10-27.
-   - A blank Days from Event means the row's AI Instructions hold a rule (for example "Monday of webinar week"); apply it. If it can't be applied, leave the date blank and list the row in the report.
+   - A blank Days from Event means the row's AI Instructions hold a rule (for example "Monday of webinar week", or for an Accelerate "first business day of the show's quarter"); apply it. Accelerate rows timed "Annual" (the year's dates and budget) are done before any show is cloned: copy them with Status = Complete if their Key Info is known, otherwise Not Started with no date. If it can't be applied, leave the date blank and list the row in the report.
    - **Check dependencies.** If a row's date falls before the date of a step in its Depends On, don't move anything: flag it in the report and the row's Notes / Blocker. It means the template's timing needs fixing.
 4. **Add one Project row** at the right place in the live plan (under the campaign type's Category row when one exists), then the template's rows under it with the same hierarchy. Copy every template column as is. Set Project on every row, Status = Not Started, Done unchecked, Sprint = Backlog unless the user names a sprint.
 5. **Fill Key Info** blanks you were given (KOL, host, date). Leave the rest as the template's fill-in prompts.
