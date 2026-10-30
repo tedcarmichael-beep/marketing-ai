@@ -66,6 +66,28 @@ Two kinds:
 - **Non-event categories:** look for similar past requests in the internal PR tracking sheet, matching the vendor or kind of spending. If the precedent is unclear, ask the requester or procurement owner.
 - **Header text from earlier PRs:** the division's PR tracking sheet (internal), in its Header Text column.
 
+## Right after you submit
+
+This applies to trade show PRs. The requester does this, or an AI once the requester confirms the form went in.
+
+- **Confirmation:** the form clears and shows a success banner. A copy goes to the submitter's email if that box was checked. A blank form after the banner means the PR went in, so do not refill and resubmit. That would create a duplicate.
+- **Master Budget:** add `PR In` to the `PR/PO` column (sometimes titled `PR / PO #`, not Notes) of the matching line item on the show's Master Budget. Change only that cell.
+  - Fill an existing row only, and never add one. If no row clearly matches, or the show has no Master Budget, ask.
+  - If the cell already says `PR In`, leave it. If it already has a PO, do not overwrite it. Tell the requester instead.
+- **Vision budget tracker:** add a `PR` row under the show's budget line, even if the show has no Master Budget. If the line is unclear, ask. Leave the formula columns alone.
+
+| Column | Value |
+|---|---|
+| Budget Item | The form's Short/Header Text, as written |
+| Row Type | `PR` |
+| Budget Line | The show's budget line (shows in the next fiscal year: `FY27 - Not in FY26 Budget`) |
+| Event Quarter | From the quarter code, such as `Q426` |
+| PR Status | `PR Entered, Pending Approval` |
+| _PR Amount | The form's Amount |
+| PR# / PO# | Leave blank. The next PR check fills them in. |
+
+Do not change the PR tracking sheets. They are read-only.
+
 ## Avoid
 
 - Automatically using the invoice date for event spending. Under the Vision rule, an invoice dated after the show still takes the show's first day.
