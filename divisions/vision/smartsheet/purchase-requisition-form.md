@@ -11,6 +11,10 @@
 
 You need to fill out the PR request form for Vision Marketing spend. An AI may fill in the fields but must **stop before Submit** so the requester can review the form.
 
+## Which form to use
+
+There are two versions of the form, one for 2026 and one for 2027. Pick by when the event or purchase happens. Both links are in the internal guide. Check the event dates first, and if the year is unclear, ask instead of guessing.
+
 ## Required inputs
 
 What the money is for, the payee, the amount, how it will be paid (ACH or company card), the related event (if any), the applicable date, and any invoice or agreement.
@@ -23,7 +27,7 @@ The form supports both event and non-event purchases. Use the internal guide for
 |---|---|
 | Business Area | `Vision`. The options seen were Aesthetic, Vision and Hospital. If the request is for an Aesthetics-only or Hospital item, flag it instead of switching on your own. |
 | Short/Header Text * | See the formula below. |
-| Material * | `LUMINARIES` when paying a physician. `WORKSHOPS` for Accelerate events only. `TRADE SHOW EXPENSES` for trade show spending. For other non-event spending, check the internal PR tracking sheet for similar past requests from the same vendor or for the same kind of spending, and use their category. If there is no clear match, confirm with the requester or procurement owner. All three values were observed in the dropdown on 2026-10-01. |
+| Material * | `LUMINARIES` when paying a physician. `WORKSHOPS` for Accelerate events only. `TRADE SHOW EXPENSES` for trade show spending. For other non-event spending, check the internal PR tracking sheets for similar past requests from the same vendor or for the same kind of spending, and use their category. If there is no clear match, confirm with the requester or procurement owner. All three values were observed in the dropdown on 2026-10-01. |
 | Cost Center * | Always use the US Vision Marketing cost center from the internal guide, unless otherwise specified. |
 | PGR * | Always match Cost Center, unless otherwise specified. On 2026-10-01 the PGR dropdown had the same 39 options as Cost Center. |
 | Vendor # | Always leave blank, unless otherwise specified. |
@@ -63,8 +67,8 @@ Two kinds:
 ## Where to look things up first
 
 - **Event start dates:** the current year's Event Schedule sheet in the Vision Marketing Events Smartsheet workspace. If the event isn't there, check next year's sheet. For dates that matter, confirm against the society's public calendar.
-- **Non-event categories:** look for similar past requests in the internal PR tracking sheet, matching the vendor or kind of spending. If the precedent is unclear, ask the requester or procurement owner.
-- **Header text from earlier PRs:** the division's PR tracking sheet (internal), in its Header Text column.
+- **Non-event categories:** look for similar past requests in the internal PR tracking sheets, matching the vendor or kind of spending. If the precedent is unclear, ask the requester or procurement owner.
+- **Header text from earlier PRs:** the division's two PR tracking sheets (internal), one for 2026 and one for 2027. Check both. The column is `Header Text` on the 2026 sheet and `Header Data` on the 2027 sheet, which also holds other business areas, so filter to Vision.
 
 ## Right after you submit
 
