@@ -25,6 +25,10 @@ Status: draft procedure, written 2026-10-30 from the first webinar trailer (9:16
 - **The webinar's promo copy.** Its approved learn-how-tos are the safest source for beat 3.
 - **Headshots:** from the [image library](../../../assets/image-library/README.md) first, then the webinar deck, then a still from the recording.
 
+## Release prerequisites
+
+Confirm the selected brand fits the product and audience; do not apply OptiLIGHT or OptiLIFT branding to unrelated Aesthetics products. Unsupported brands can receive a proposal, but rendering waits for the appropriate brand template. Confirm speaker recording and promotional reuse permission, patient-image consent where relevant, headshot rights, claim review and any required testimonial disclosure before rendering or release. A webinar recording, paid-speaker disclaimer or public headshot alone is not approval. Hold the affected material when evidence is missing. Keep rights evidence and transcripts outside Git. Separate content-owner selection from final release approval; do not upload or post without authorization.
+
 ## Procedure
 
 ### Pass 1: propose
@@ -39,7 +43,7 @@ Status: draft procedure, written 2026-10-30 from the first webinar trailer (9:16
 
 6. **Tighten the moments** from each segment's own transcript, never the full-webinar one: start on the first word, end after a complete thought and before anyone else speaks, and trim filler at the edges.
 7. **Proofread the captions** as in [webinar clips](../lumenis-webinar-clips/SKILL.md): readable timing, no um or uh, correct names and punctuation.
-8. **Add music** cleared for commercial use, leveled under the speech, with its start offset chosen so a downbeat or drop lands on the cut to the title card. Record why. Re-check the track isn't Content ID registered before posting to YouTube.
+8. **Add music** cleared for commercial use, leveled under the speech, with its start offset chosen so a downbeat or drop lands on the cut to the title card. Record why. Verify the music license permits the intended platform and retain any required Content ID clearance before posting to YouTube.
 9. **Render stills and check them:** face centred, no other participants' tiles, title and subtitle fit, learn list readable, headshots meet cleanly. Then render, pull frames at each beat from the MP4 and look at them.
 10. **16:9 version:** same beats and copy in the wide layout; music may differ.
 11. **Hand over** the newest MP4s only, with what you checked and what you didn't verify. Approved trailers go to the [content hub](../lumenis-content-hub/SKILL.md); posting is the owner's call.
@@ -47,5 +51,5 @@ Status: draft procedure, written 2026-10-30 from the first webinar trailer (9:16
 ## Missing inputs
 
 - No toolkit: propose the beats and copy, then stop.
-- No headshot for a doctor: use a still from the recording and say so.
+- No cleared headshot: propose a still from the recording only if its promotional reuse is authorized; otherwise hold that visual and request a cleared image.
 - No promo copy: write the learn-how-tos from the transcript and flag them as new copy for review.
