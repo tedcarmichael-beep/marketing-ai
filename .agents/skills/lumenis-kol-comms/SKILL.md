@@ -1,6 +1,6 @@
 ---
 name: lumenis-kol-comms
-description: Draft the emails and notes a KOL receives across a Lumenis campaign (recruitment, scheduling, approvals, presenter logistics, thank-you, invoice request, handwritten note) from agreed templates and the campaign's Smartsheet record. Use when a KOL message is due for a webinar; drafts only, a person sends.
+description: Draft the emails and notes a KOL receives across a Lumenis campaign (recruitment, scheduling, approvals, presenter logistics, thank-you, invoice request, handwritten note) from agreed templates and the campaign's Smartsheet record. Use when a KOL message is due for a webinar or an Accelerate; drafts only, a person sends.
 ---
 
 # KOL comms
@@ -14,12 +14,12 @@ KOLs hear from several people on our team over two months. This skill keeps thos
 
 - **Campaign type and step.** The Smartsheet row says which message is due (its Step ID matches a template below) and who sends it.
 - **The campaign's rows in the live sprint plan:** KOL name, host (if any), date, title, links and PO number come from Key Info cells. Never fill a bracket from a past campaign.
-- **Template set:** [webinar emails](references/webinar-emails.md). Other campaign types add their own reference file here. Accelerate presenter briefings stay with [lumenis-accelerate-kbyg-emails](../lumenis-accelerate-kbyg-emails/SKILL.md).
+- **Template set:** [webinar emails](references/webinar-emails.md) or [Accelerate emails](references/accelerate-emails.md). Other campaign types add their own reference file here. Accelerate presenter briefings (sessions, decks, schedule) stay with [lumenis-accelerate-kbyg-emails](../lumenis-accelerate-kbyg-emails/SKILL.md).
 
 ## Procedure
 
 1. **Pick the template** for the step. If none fits, draft from the closest one and say it's new wording.
-2. **Settle the KOL's time zone before the first time goes out.** That's recruitment (K4). If K4 Key Info already has a zone, use it. Otherwise find the practice location (KOL library, then a web search), map it to a named zone (America/Chicago) and save it in K4 Key Info. Several practices in different zones, or no location found: ask the sender which applies, and don't guess. Convert each time for its own date, so a November webinar and an October interview each get the right daylight saving offset.
+2. **Settle the KOL's time zone before the first time goes out** (webinars; Accelerate times are local to the venue and say so). That's recruitment (K4). If K4 Key Info already has a zone, use it. Otherwise find the practice location (KOL library, then a web search), map it to a named zone (America/Chicago) and save it in K4 Key Info. Several practices in different zones, or no location found: ask the sender which applies, and don't guess. Convert each time for its own date, so a November webinar and an October interview each get the right daylight saving offset.
 3. **For interview scheduling (C1), find the times next.** Read Ted's Outlook calendar through the calendar connector and pick three free hours on or before T-45, in Ted's working hours, then show them in the KOL's zone from K4 Key Info. With no calendar connector, ask Ted for his free times and still convert them.
 4. **Fill every bracket** from the campaign record. Optional lines (marked in the template notes) are dropped whole when their fact is missing, never left with a bracket. A required fact that's missing (the date, the KOL's name, the presenter link) blocks the draft: list it and stop.
 5. **Run [Ted's clarity gate](../copy-clarity-gate/SKILL.md)** on the filled draft. Any clinical statement goes through the [claims library](../../../assets/claims-reference/index.md); KOL emails should rarely need one.
@@ -38,6 +38,6 @@ KOLs hear from several people on our team over two months. This skill keeps thos
 - Drafting never authorizes sending. Each message is sent by the named person.
 - Don't add promises the template doesn't make (extra fees, travel, timelines).
 - **Honorarium:** the offer (recruitment) uses the amount in the campaign record; the purchase requisition is raised only after the KOL agrees, so it can't gate the offer. The invoice request must match the approved requisition and PO.
-- **Times** come from the campaign record's confirmed live start, shown to the KOL in their own time zone. Never assume the usual 5:00 PM PT.
+- **Times** come from the campaign record's confirmed live start, shown to the KOL in their own time zone. Never assume the usual 5:00 PM PT. Accelerate arrival and departure times are hotel times in the venue's time zone, never flight times.
 - Handwritten-note text goes to the note service only after the sender approves it.
 - Reading a calendar is for finding free times. Don't create, move or accept events; the sender books the meeting.

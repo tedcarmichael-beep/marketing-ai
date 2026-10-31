@@ -12,5 +12,6 @@ Build and verify every Accelerate form with the [HubSpot form skill](../../lumen
 Accelerate specifics:
 - One dedicated interest form per division per city, named with the same string as its page and campaign (see the [blueprint](blueprint.md)). The agenda page has no form unless the brief requires a distinct conversion.
 - For a shared Vision and Aesthetics event, load both division mappings and keep each division's form separate.
+- Success message (the form's thank-you text): thank the visitor for their interest and say a Lumenis sales representative will reach out shortly to discuss the event. Never say or imply they're registered.
 - A HubSpot interest form is not a confirmed event registration. Rep approval and flight or non-flight registration happen in the [Smartsheet event backend](smartsheet.md).
 - Each interest form feeds its division's form-fill segment ([campaigns and segments](campaigns-and-segments.md)) and the interest workflow ([workflows](workflows.md)). Add every new interest form to the corporate recent-conversion workflow's exclusion list, as the [HubSpot workflow skill](../../lumenis-hubspot-workflow/SKILL.md#latest-lead-info-goes-first) explains.

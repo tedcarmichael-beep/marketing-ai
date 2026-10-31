@@ -12,7 +12,7 @@ Build and check the Accelerate interest workflow with the [HubSpot workflow skil
 ## Accelerate interest workflow
 
 1. Prepare the intended automated interest acknowledgment before selecting it in the workflow. Confirm the shared/division sender and subscription decision first.
-2. Clone the approved reference once and wait for it to appear in the workflow list. Search before retrying; source clones took time and repeated clicks created duplicates.
+2. Clone the approved reference once (for Vision, the most recent Vision Accelerate interest workflow; see the [timeline](timeline.md)) and wait for it to appear in the workflow list. Search before retrying; source clones took time and repeated clicks created duplicates.
 3. Enrollment: two OR groups when both divisions are in scope, each selecting the exact event/division form. Recorded condition: has filled out [form], Any page, any number of times, anytime. Do not include the other division if the task is Vision-only.
 4. Make **Edit record → Latest Lead Info** the first action, directly under the enrollment trigger and before any delay, branch or Salesforce action (see [Latest Lead Info goes first](../../lumenis-hubspot-workflow/SKILL.md#latest-lead-info-goes-first)). Add the interest form to the corporate recent-conversion workflow's exclusion list. Write the actual city/dates/interest description. In a rich-text field, select and replace the visible content; normal fill previously appended to hidden content. Save and reopen to verify.
 5. Recorded template delayed 15 minutes before downstream Salesforce handling; retain when still intended, but always after the Latest Lead Info action. Do not mistake this for proof that all CRM sync completes in 15 minutes.

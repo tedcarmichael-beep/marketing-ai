@@ -57,10 +57,12 @@ Fill [the template](references/kbyg-template.md) from confirmed Smartsheet value
 - Include the rest of the relevant track's agenda from Smartsheet so the KOL can plan around their assignments.
 - Include only confirmed logistics held in Smartsheet or explicitly supplied by the requester.
 - Use the Dropbox link only where the KOL-to-deck mapping requires it.
+- **Keep links readable.** When the draft goes into the sender's mailbox, embed each link in words ("your deck", "the full schedule"). In a plain-text draft, put each link on its own labelled line. Never leave long raw URLs inside sentences; KOLs skip emails that look like a wall of links.
+- **Always include the full show schedule** (the agenda page or schedule link from Smartsheet), not only the KOL's own sessions.
 
 ### 5. Check and deliver
 
-Run [references/checks.md](references/checks.md). Deliver each email as its own plain-text block or file named `KBYG - Dr. <First> <Last>.txt`, followed by one consolidated list of unresolved Smartsheet fields or mappings. Do not represent a draft with unresolved required data as ready to send.
+Run [references/checks.md](references/checks.md). Deliver each email as its own plain-text block or file named `KBYG - Dr. <First> <Last>.txt`, followed by one consolidated list of unresolved Smartsheet fields or mappings. Do not represent a draft with unresolved required data as ready to send. The content owner sends each email by hand.
 
 If a sent email's schedule changes, draft a short correction containing only the updated information and any affected deck link.
 

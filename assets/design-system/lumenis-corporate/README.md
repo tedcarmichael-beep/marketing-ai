@@ -51,7 +51,7 @@ reference photographs, confirmed cleared by Nicholas Olsen on 2026-09-14.
 | `README.md` | This file — context, voice, visual foundations, index. |
 | `styles.css` | Root stylesheet; imports everything in `tokens/`. |
 | `tokens/` | `colors.css` (primary, secondary by sub-brand, neutrals, semantic, `[data-accent]` themes), `typography.css`, `spacing.css` (spacing, radius, elevation, social grid), `fonts.css`, `base.css` (+ `.lc-title`, `.lc-mix`, `.lc-box` helpers). |
-| `assets/logo/` | `lumenis-wordmark-{black,white}.{svg,png}`, `lumenis-hero-l-{black,white}.{svg,png}` |
+| `assets/logo/` | `lumenis-wordmark-{black,white}.{svg,png}`, `lumenis-hero-l-{black,white}.{svg,png}`, `lumenis-hero-l-white-on-black-share-1200x630.png` (fallback featured image for web pages) |
 | `assets/icons/` | `crossover`, `burst`, `zigzag`, `wave`, `sparkle`, `rings`, `star`, `cross`, `lines`, `orbit` (stroke = `currentColor`) |
 | (images) | Linked HubSpot-hosted image-library photos — no image files in Git |
 | (fonts) | Not in Git — install ABC Arizona locally ([download links](../hubspot-assets.md)) |

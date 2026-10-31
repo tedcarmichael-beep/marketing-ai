@@ -35,7 +35,9 @@ Creating a campaign needs Salesforce permission for that division. For Vision (a
 | Budgeted Cost / Actual Cost | The honorarium total in the campaign record |
 | Division | Ophthalmic, if the field is editable |
 
-**Other programs** (Accelerate, trade shows) don't inherit these values. Take every field from the brief and an approved comparable campaign. The [campaigns reference](../lumenis-accelerate-campaign/references/campaigns-and-segments.md) records one observed trade show setup; it's evidence of what was done once, not a default.
+**Accelerate** member statuses (stated by the Vision team 2026-10-29): **Requested More Info** (set by the interest workflow), **Registered** (from the Smartsheet registrant list the Monday before the show) and **Attended** (from OneTap the Monday after). Their Responded flags and the other field values aren't confirmed yet; take them from an approved recent Vision Accelerate campaign and confirm with marketing operations.
+
+**Other programs** (Accelerate, trade shows) don't inherit the webinar values. Take every field from the brief and an approved comparable campaign. The [campaigns reference](../lumenis-accelerate-campaign/references/campaigns-and-segments.md) records one observed trade show setup; it's evidence of what was done once, not a default.
 
 The Division field has been read-only or missing on some create screens; see that reference before escalating.
 
