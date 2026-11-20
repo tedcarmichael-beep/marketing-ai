@@ -51,8 +51,8 @@
       ],
       "note": "These lists can grow over time. Treat a value you don't recognize as valid-but-unclassified, not an error."
     },
-    "lastSyncedAt": "2026-11-05T00:50:57.421Z",
-    "updatedAt": "2026-11-05T00:50:57.423Z"
+    "lastSyncedAt": "2026-11-20T21:22:12.104Z",
+    "updatedAt": "2026-11-20T21:22:12.106Z"
   },
   "schemaVersion": 1,
   "assets": [
@@ -5105,6 +5105,87 @@
         }
       ],
       "importedAt": "2026-07-28T21:18:26.562Z",
+      "hubspot": {
+        "folderId": "218370797141",
+        "folderName": "US - VIS - Image Catalogue - 2026"
+      }
+    },
+    {
+      "id": "optilift-patient-consultation-001",
+      "allowedBrands": [
+        "OptiLIFT"
+      ],
+      "businessUnit": "Vision",
+      "subject": "Patient and provider in an OptiLIFT consultation",
+      "description": "A smiling patient reclines in a treatment chair and looks up at a provider in an OptiLIFT-branded lab coat, who holds the OptiLIFT handpiece while they talk. The OptiLIFT console stands beside them.",
+      "productShown": "OptiLIFT device and periocular handpiece",
+      "audience": [
+        "patients",
+        "prospective OptiLIFT patients",
+        "eye care practitioners"
+      ],
+      "placements": [
+        "hero",
+        "section",
+        "card",
+        "social",
+        "email"
+      ],
+      "orientation": "landscape",
+      "background": "Transparent studio cutout from the OptiLIFT brand book photography; the chair, patient and console are cropped at the bottom edge.",
+      "tags": [
+        "OptiLIFT",
+        "Lumenis",
+        "patient",
+        "provider",
+        "consultation",
+        "treatment chair",
+        "handpiece",
+        "device",
+        "smiling",
+        "friendly",
+        "patient-facing",
+        "cutout",
+        "brand book"
+      ],
+      "altText": "A smiling patient talks with her provider, who holds the OptiLIFT handpiece beside the OptiLIFT device.",
+      "usageRestrictions": "OptiLIFT brand-book photography (04_photography). Shows two identifiable models; confirm model releases cover patient-facing and practice email use. The handpiece is not touching the patient, so do not use it to depict treatment or imply outcomes. The cutout is cropped at the bottom: place that edge flush with its container.",
+      "source": {
+        "filename": "IMG_0146.png",
+        "format": "png",
+        "width": 7997,
+        "height": 5334,
+        "bytes": 67956790,
+        "intake": "local-staging"
+      },
+      "collection": "optilift",
+      "derivatives": [
+        {
+          "width": 640,
+          "height": 427,
+          "bytes": 28350,
+          "format": "webp",
+          "path": "3-processed/optilift/optilift-patient-consultation-001/optilift-patient-consultation-001-640w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optilift-patient-consultation-001/optilift-patient-consultation-001-640w.webp"
+        },
+        {
+          "width": 1280,
+          "height": 854,
+          "bytes": 74278,
+          "format": "webp",
+          "path": "3-processed/optilift/optilift-patient-consultation-001/optilift-patient-consultation-001-1280w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optilift-patient-consultation-001/optilift-patient-consultation-001-1280w.webp"
+        },
+        {
+          "width": 1920,
+          "height": 1281,
+          "bytes": 135300,
+          "format": "webp",
+          "path": "3-processed/optilift/optilift-patient-consultation-001/optilift-patient-consultation-001-1920w.webp",
+          "hubspotUrl": "https://information.lumenis.com/hubfs/US%20-%20VIS%20-%20Image%20Catalogue%20-%202026/optilift-patient-consultation-001/optilift-patient-consultation-001-1920w.webp"
+        }
+      ],
+      "importedAt": "2026-11-20T21:02:38.059Z",
       "hubspot": {
         "folderId": "218370797141",
         "folderName": "US - VIS - Image Catalogue - 2026"
